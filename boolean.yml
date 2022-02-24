@@ -1,0 +1,7 @@
+employee-information:
+ - name : Mohit Yadav
+   sap_id : 51894532
+   email_id : mohit-yadav@hcl.com
+   contract-employee : no #true/false, on/off, yes/no
+   gate_entry: on
+   

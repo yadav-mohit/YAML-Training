@@ -1,0 +1,23 @@
+employee-information:
+ - name: Mohit Yadav
+   sap_id: 51894532
+   email_id: mohit-yadav@hcl.com
+   project:
+   - OOGH
+   - Nordea
+
+ - name: Akash Kumar Pandey
+   sap_id: 51894522
+   email_id: akash@hcl.com
+   project:
+    - IKEA
+    - Novartics 
+ 
+ - name: Hanika Vats
+   sap_id: 51894523
+   email_id: hanika@hcl.com
+   project: [OOGH, Novartics, IKEA, GSS]
+
+   employee-information:
+    - Mohit Yadav
+    - Akash Kumar Pandey

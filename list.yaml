@@ -1,0 +1,31 @@
+employee-information:
+ - name : Mohit Yadav
+   sap_id : 51894532
+   email_id : mohit-yadav@hcl.com
+
+ - name : Akash Kumar Pandey
+   sap_id : 51894522
+   email_id : akash@hcl.com
+   
+employee-information_Batch_2:
+ - name : Aleena
+   sap_id : 51894532
+   email_id : mohit-yadav@hcl.com
+
+ - name : Pragati
+   sap_id : 51894522
+   email_id : akash@hcl.com
+
+employee-information_Batch_3:
+ - name : Parveen
+   sap_id : 51894532
+   email_id : mohit-yadav@hcl.com
+
+ - name : Prajwal
+   sap_id : 51894522
+   email_id : akash@hcl.com   
+
+
+  #employee-information.name == Mohit, Akash
+  #employee-information_Batch_2.name == Aleena, Kirti 
+  ##employee-information.name[0] 
