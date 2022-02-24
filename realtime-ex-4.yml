@@ -1,0 +1,6 @@
+- name: Example of ENV Var using PowerShell
+  ansible.windows.win_powershell:
+    script: |
+      echo "Print the host name using env variables"
+      $host-name = $env:computername
+      write-host "$host-name"
